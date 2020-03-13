@@ -1,0 +1,106 @@
+#img-main-logo {
+    margin-top: 170px;
+    width: 100%;
+}
+
+.img-kray {
+    padding-top: 35px;
+}
+#img-superleft {
+    background-image: url(../img/LEFT.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 490px;
+    width: 100%;
+    overflow: hidden;
+}
+#img-superright {
+    background-image: url(../img/RIGHT.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 490px;
+    width: 100%;
+    overflow: hidden;
+}
+#img-center {
+    background-image: url(../img/Gruppa_8.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 558px;
+    width: 100%;
+    overflow: hidden;
+}
+#superprice {
+    margin-bottom: 71px;
+}
+
+.price-content {
+    padding-bottom: 15px;
+    overflow: hidden; 
+}
+.price-icons {
+    float: left;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+    padding-left: 20px;
+    padding-top: 50px;
+}
+#ico-sved {
+    max-width: 160px;
+    padding-top: 60px;
+}
+
+#zapis {
+    background-image: url(../img/ЗАПИСЬ.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 253px;
+}
+#oblozhka {
+    background-image: url(../img/ОБЛОЖКА.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 253px;
+}
+#svedos {
+    margin-top: 15px;
+    background-image: url(../img/СВЕДЕНИЕ.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 253px;
+}
+#istory {
+    margin-top: 15px;
+    background-image: url(../img/ИСТОРИЯ.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 253px;
+}
+#img-advantages, .adv-img {
+    margin-bottom: 10px;
+}
+#img-calendar {
+    padding-top: 4px;
+}
+#img-money {
+    padding-top: 20px;
+}
+.img-board {
+    border: 5px solid #ffffff;
+    background-color: #ffffff;
+    border-radius: 100%;
+}
+.img-around {
+    margin-top: 18px;
+}
+
+.slider-pic {
+    margin: 54px 246px;
+}
+
+.music {
+    background-image: url(/img/music-fon.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 345px;
+}

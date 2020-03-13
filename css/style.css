@@ -1,0 +1,109 @@
+*, *:after, *:before {
+    transition: .3s ease-in-out; /* добавим плавность переходов для всех элементов страницы*/
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;           /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
+body {
+    font-family: Raleway Light sans-serif;
+}
+
+input:focus, button:focus, a:focus, video:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#main {
+    background-image: url(../img/MAIN\ BG.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    min-height: 889px;
+}
+
+#tovar {
+    background-image: url(../img/PRICE\ BG.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    min-height: 1641px;
+}
+
+#portfolio {
+    background-image: url(../img/Прямоугольник\ 7.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    min-height: 962px;
+}
+
+#why-us {
+    background-image: url(../img/Прямоугольник\ 10.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    min-height: 639px;
+}
+
+#about-us {
+    background-image: url(../img/Прямоугольник\ 7\ копия.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    min-height: 573px;
+    color: white;
+}
+
+#zayavka {
+    min-height: 411px;
+}
+
+
+
+@font-face {
+    font-family: "Gotham med"; 
+    src: url("../fonts/Gotham med.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+
+@font-face {
+    font-family: "Gotham Black"; 
+    src: url("../fonts/gotham\ black.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+    
+@font-face {
+    font-family: "Gotham light"; 
+    src: url("../fonts/Gotham light.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Raleway Regular"; 
+    src: url("../fonts/Raleway Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Raleway Medium"; 
+    src: url("../fonts/Raleway Medium.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Raleway Light"; 
+    src: url("../fonts/Raleway Light.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Raleway Bold"; 
+    src: url("../fonts/Raleway Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 

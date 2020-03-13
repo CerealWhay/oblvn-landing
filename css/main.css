@@ -1,0 +1,63 @@
+.navbar {
+    padding: 0px;
+    max-height: 100px;
+    box-shadow: 0 1px 46px rgba(0, 0, 0, 0.78);
+} 
+
+#btn-read-more {
+    margin-top: 62px;
+    width: 278px;
+    height: 60px;
+    border-radius: 10px;
+
+    /* Style for "READ MORE" */
+    color: #ffffff;
+    font-family: Raleway Bold;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 41.02px;
+    text-transform: uppercase;
+    /* Text style for "READ MORE" */
+    letter-spacing: 0.3px;
+}
+
+#btn-read-more span {
+    font-size: 22px;
+    letter-spacing: 0.32px;
+}
+
+#btn-zayavka {
+    color: #ffffff;
+    font-family: Raleway Bold;
+    height: 48px;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 25px;
+    text-transform: uppercase;
+    /* Text style for "READ MORE" */
+    letter-spacing: 0.3px;
+    border-radius: 10px;
+}
+
+#btn-zayavka span {
+    font-size: 22px;
+    letter-spacing: 0.32px;
+}
+
+#video-block {
+    margin-top: 43px;
+}
+
+.advtgs-block {
+    text-align: center;
+}
+.adv-img {
+    height: 140px;
+}
+.adv-img img {
+    display: block;
+    margin: auto auto;
+}
+.slick-active {
+    outline: none;
+}

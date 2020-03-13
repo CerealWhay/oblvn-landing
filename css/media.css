@@ -1,0 +1,43 @@
+@media (max-width: 1557px) {
+    #txt-header {
+        margin-left: 3%;
+    }
+    .nav-link {
+        padding-right: 1.4% !important;
+    }
+}
+
+@media (max-width: 1199px) {
+    #tovar {
+        background-image: none;
+        background-color: #f6f6f6;
+    }
+    #portfolio {
+        background-image: none;
+        background-color: #231f2a;
+    }
+    #why-us {
+        background-image: none;
+        background-color: #f6f6f6;
+    }
+    #about-us {
+        background-image: none;
+        background-color: #231f2a;
+    }
+    #zayavka {
+        background-image: none;
+        background-color: #f6f6f6;
+    }
+}
+
+@media (max-width: 1150px) {
+    #txt-oblivion {
+        /* Style for "OBLIVION R" */
+        font-size: 90px;
+    }
+    
+    #txt-oblivion span {
+        font-size: 60px;
+    }
+}
+
